@@ -80,7 +80,7 @@ Training hyperparameters are passed to the training function `train` of `Agent`,
 ![reward](https://user-images.githubusercontent.com/70998651/134889400-ded3b5c3-e465-4efd-bb35-0f5f97691b52.png)
 
 
-Here x-axis is the episode and y-axis is the reward.
+Here x-axis is the episode and y-axis is the reward. Environment solved in 167 episodes. 
 
 #### 3-2. Future works
 
