@@ -78,6 +78,7 @@ Training hyperparameters are passed to the training function `train` of `Agent`,
 ### 3. Result and Future works
 
 #### 3-1. Reward
+![figures_scores](https://user-images.githubusercontent.com/70998651/134888734-694b0731-d802-413b-8bf8-ed472a6f8020.png)
 
 
 Here x-axis is the episode and y-axis is the reward.
