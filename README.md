@@ -62,6 +62,12 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 2. Download this repository
 
+### Dependencies
+
+1. Please follow the instruction to [dependencies](https://github.com/udacity/deep-reinforcement-learning#dependencies) from the original course Github repository. 
+2. Also to run the 'Reacher' unity environment, please follow the Installation md file of [Unity ML-Agents](https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Installation.md)
+
+
 ### Instructions
 
 Run `Continuous_Control.ipynb`, you can either train the agent by yourself by setting `state` = 'Train' or test the saved agent model by setting `state` = 'Test' where you can see agent action slowly by setting `mode` = 'slow' or quickly by setting `mode` = 'fast'.
