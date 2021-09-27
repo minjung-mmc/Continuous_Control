@@ -17,7 +17,6 @@ In this project an agent (or agents) aims to follow a target. The goal of agents
 
 I implement the [Deep Deterministic Policy Gradient](https://arxiv.org/pdf/1509.02971)
 
---------
 
 ### 2. Details
 
@@ -37,7 +36,7 @@ During the training, the actor is updated by applying the chain rule to the expe
 4. Train the agents for some episodes. Traing loop is composed of two steps: acting and learning.
 5. Update the target Actor and the target Critic weights by making a copy of the current weights of the local Actor and Critic Network.
 
-------------
+
 #### 2-2. Networks
 
 The network structure is as follows:
