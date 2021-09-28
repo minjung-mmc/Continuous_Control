@@ -55,7 +55,7 @@ Agent hyperparameters are passed as constructor arguments to `Agent`.  The defau
 
 | parameter    | value  | description                                                                   |
 |--------------|--------|-------------------------------------------------------------------------------|
-| BUFFER_SIZE  | 1e5    | Number of experiences to keep on the replay memory for the TD3                |
+| BUFFER_SIZE  | 1e5    | Number of experiences to keep on the replay memory for the DDPG               |
 | BATCH_SIZE   | 128    | Minibatch size used at each learning step                                     |
 | GAMMA        | 0.99   | Discount applied to future rewards                                            |
 | TAU          | 1e-3   | Scaling parameter applied to soft update                                      |
